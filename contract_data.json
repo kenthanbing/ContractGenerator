@@ -1,0 +1,14 @@
+{
+    "contract_number": "1234567",
+    "exhibition_title": "xxx展览会",
+    "party_a": "北京逸宸国际展览有限公司",
+    "party_b": "xxxx有限公司",
+    "exhibition_date": "xxxx年xx月xx日至xx月xx日",
+    "exhibition_venue": "xxxx会展中心",
+    "booth_fee": "人民币xxxx元/9㎡标准展位",
+    "travel_fee": "人民币xxxx元/人",
+    "single_fee":"人民币xxxx元/人",
+    "payment_due_date": "xxxx年xx月xx日",
+    "contract_valid_until":"xxxx年xx月xx日",
+    "contract_date": "xxxx年xx月xx日"
+}
